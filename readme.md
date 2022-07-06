@@ -2,6 +2,10 @@
 
 **Architecture Options for Building an Analytics Application on AWS** is a Series containing different articles that cover the key scenarios that are common in many analytics applications and how they influence the design and architecture of your analytics environment in AWS. These series present the assumptions made for each of these scenarios, the common drivers for the design, and a reference architecture for how these scenarios should be implemented.
 
+Feel free to make suggestions, I am open to any advice! You can reach me on [Twitter](https://twitter.com/adi_12_modi) or [LinkedIn](https://www.linkedin.com/in/adit-modi-2a4362191/).
+
+##### Enjoy! 😉👍
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=/AditModi/Architecture-Options-for-Building-an-Analytics-Application-on-AWS)[![Website](https://img.shields.io/website?label=Dev.to&up_message=@aditmodi&url=https%3A%2F%2Fdev.to/aditmodi)](https://dev.to/aditmodi) 
 
 ![Architecture Options for Building an Analytics Application on AWS](https://user-images.githubusercontent.com/48589838/177518734-0d3d2dd0-cf6a-4af1-a7c6-bdccb3ae82f8.jpg)
