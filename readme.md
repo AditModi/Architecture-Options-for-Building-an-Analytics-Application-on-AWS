@@ -10,10 +10,10 @@
 
 |               | Topic        | Personal Website | Hashnode     | 
 | ------------  | ------------ | ---------------- | ------------ | 
-|  1 | Introduction to **Data Mesh** |[ Link ]() |[ Hashnode ]()
-|  2 | Introduction to **Batch Data Processing** |[ Link ]() |[ Hashnode ]()
-|  3 | Introduction to **Streaming Ingestion and Stream Processing** |[ Link ]() |[ Hashnode ]()
-|  4 | Introduction to **Operational Analytics** |[ Link ]() |[ Hashnode ]()
-|  5 | Introduction to **Data visualization** |[ Link ]() |[ Hashnode ]()
-|  6 | Introduction to **Modern Data Architecture (formerly Lake House)** |[ Link ]() |[ Hashnode ]()
+|  1 | Introduction to **Data Mesh** |[ Link ](https://github.com/AditModi/Architecture-Options-for-Building-an-Analytics-Application-on-AWS/blob/main/Introduction%20to%20Data%20Mesh.md) |[ Hashnode ]()
+|  2 | Introduction to **Batch Data Processing** |[ Link ](https://github.com/AditModi/Architecture-Options-for-Building-an-Analytics-Application-on-AWS/blob/main/Introduction%20to%20Batch%20Data%20Processing.md) |[ Hashnode ]()
+|  3 | Introduction to **Streaming Ingestion and Stream Processing** |[ Link ](https://github.com/AditModi/Architecture-Options-for-Building-an-Analytics-Application-on-AWS/blob/main/Introduction%20to%20Streaming%20Ingestion%20and%20Stream%20Processing.md) |[ Hashnode ]()
+|  4 | Introduction to **Operational Analytics** |[ Link ](https://github.com/AditModi/Architecture-Options-for-Building-an-Analytics-Application-on-AWS/blob/main/Introduction%20to%20Operational%20analytics.md) |[ Hashnode ]()
+|  5 | Introduction to **Data visualization** |[ Link ](https://github.com/AditModi/Architecture-Options-for-Building-an-Analytics-Application-on-AWS/blob/main/Introduction%20to%20Data%20visualization.md) |[ Hashnode ]()
+|  6 | Introduction to **Modern Data Architecture (formerly Lake House)** |[ Link ](https://github.com/AditModi/Architecture-Options-for-Building-an-Analytics-Application-on-AWS/blob/main/Introduction%20to%20Modern%20Data%20Architecture%20(formerly%20Lake%20House).md) |[ Hashnode ]()
 
